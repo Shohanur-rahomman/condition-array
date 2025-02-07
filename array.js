@@ -1,0 +1,1 @@
+const friends = ['babul','abul',]
